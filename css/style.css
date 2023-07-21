@@ -17,10 +17,10 @@
     color:white;
 }
 .bannerTitle{
-    font-size: 2rem;
+    font-size: 4rem;
 }
 .bannerDesc{
-    font-size: 1rem;
+    font-size: 2rem;
 }
 .card{
     cursor: pointer;
@@ -39,7 +39,4 @@
 }
 .card-img-top{
     height: 50vh;
-}
-#center{
-    text-align: center;
 }
